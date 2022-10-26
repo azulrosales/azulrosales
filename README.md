@@ -2,6 +2,7 @@
 <h3 align="center">A CS student passionate about Data Science</h3>
 
 - 📫 How to reach me **azul.rosales@outlook.com**
+- :mountain: My hobbies: hiking, swimming, running
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
