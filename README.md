@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azul</h1>
-<h3 align="center">A CS student passionate about Data Science</h3>
+<h3 align="center">Data Analyst. I hope to inspire others to combine their interests and skills in unique and meaningful ways.</h3>
 
-- 📫 How to reach me **azul.rosales@outlook.com**
+- 📫 How to reach me: **azul.rosales@outlook.com**
 - :mountain: My hobbies: hiking, swimming, running
 
 <h3 align="left">Connect with me:</h3>
