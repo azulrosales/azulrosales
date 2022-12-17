@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azul</h1>
-<h3 align="center">Data Analyst. I hope to inspire others to combine their interests and skills in unique and meaningful ways.</h3>
+<h2 align="center">Data Analyst</h2>
+<h4 align="center">I hope to inspire others to combine their interests and skills in unique and meaningful ways.</h4>
 
 - 📫 How to reach me: **azul.rosales@outlook.com**
 - :mountain: My hobbies: hiking, swimming, running
