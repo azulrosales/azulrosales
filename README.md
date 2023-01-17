@@ -2,7 +2,6 @@
 <h2 align="center">Data Analyst - CS Student</h2>
 <h4 align="center">I hope to inspire others to combine their interests and skills in unique and meaningful ways.</h4>
 
-- 📫 **azul.rosales@outlook.com**
 - :mountain: My hobbies: hiking, swimming, running
 
 <h3 align="left">Connect with me:</h3>
