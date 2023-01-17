@@ -3,7 +3,8 @@
 <h3 align="center">Passionate about all things data.</h4>
 
 - ❤️ Fired up by sustainability, community, and innovation.
-- ⛰️ I really enjoy hiking, swimming, and running.
+- 💡 Deeply invested in Data Engineering and Analytics.
+- ⛰️ My hobbies: hiking, swimming, and running.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
