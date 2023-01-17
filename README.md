@@ -1,6 +1,6 @@
 <h1 align="center">Hey, Azul here.</h1>
 
-<h4 align="center">Passionate about all things data.</h4>
+<h3 align="center">Passionate about all things data.</h4>
 
 - ❤️ Fired up by sustainability, community, and innovation.
 - ⛰️ I really enjoy hiking, swimming, and running.
