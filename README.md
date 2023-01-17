@@ -7,11 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Follow me on... <br>
 <a href="https://linkedin.com/in/azulrosales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azulrosales" height="30" width="40" /></a>
 <a href="https://medium.com/@azulrosales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azulrosales" height="30" width="40" /></a>
 </p>
-Or send me an email: azul.rosales@outlook.com
+✉️ azul.rosales@outlook.com
 
 ### Tech Stack
 
