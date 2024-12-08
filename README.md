@@ -4,7 +4,7 @@
 
 <p align="center">
 ❤️ Fired up by sustainability, community, and innovation. <br>
-💡 Deeply invested in Data Engineering and Analytics. <br>
+💡 Deeply invested in end-to-end data solutions. <br>
 ⛰️ Hobbies: hiking, swimming, running, cooking. <br>
 </p>
 
