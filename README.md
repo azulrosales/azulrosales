@@ -5,7 +5,6 @@
 <p align="center">
 ❤️ Fired up by sustainability, community, and innovation. <br>
 💡 Deeply invested in end-to-end data solutions. <br>
-⛰️ Hobbies: hiking, swimming, running, cooking. <br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
